@@ -1,3 +1,25 @@
+## ✔️ Reactjs - Consumo de API de filmes
+
+<br>
+<div>
+    <img src="./src/images/React-Api-filmes.gif" />
+</div><br>
+
+<div>
+    <h3>
+        Este projeto pequeno foi o primeiro feito com React, para aprendizado e conhecimento da biblioteca.
+    </h3>
+        
+</div><br>
+
+## ✅ tecnologies used
+
+<div>
+    <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+    <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
+    <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+</div><br>
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
